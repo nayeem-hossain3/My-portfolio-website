@@ -103,15 +103,15 @@ const Projects = () => {
             </p>
 
             <div className="flex flex-wrap gap-3 mb-6">
-              <span className="px-4 py-2 bg-gray-200 rounded-full">
+              <span className="px-4 py-2 bg-green-500 rounded-full">
                 React
               </span>
 
-              <span className="px-4 py-2 bg-gray-200 rounded-full">
+              <span className="px-4 py-2 bg-green-500 rounded-full">
                 Tailwind CSS
               </span>
 
-              <span className="px-4 py-2 bg-gray-200 rounded-full">
+              <span className="px-4 py-2 bg-green-500 rounded-full">
                 Firebase
               </span>
             </div>
@@ -164,7 +164,7 @@ const Projects = () => {
                   {project.tech.map((item, i) => (
                     <span
                       key={i}
-                      className="px-3 py-1 bg-gray-200 rounded-full text-sm"
+                      className="px-3 py-1 bg-green-500 rounded-full text-sm"
                     >
                       {item}
                     </span>

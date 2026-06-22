@@ -70,6 +70,26 @@ const About = () => {
             <div>
               <div className="flex justify-between mb-2">
                 <span>HTML</span>
+                <span>100%</span>
+              </div>
+              <div className="bg-gray-300 h-3 rounded-full">
+                <div className="bg-blue-500 h-3 rounded-full w-[100%]"></div>
+              </div>
+            </div>
+
+            <div>
+              <div className="flex justify-between mb-2">
+                <span>CSS / Tailwind</span>
+                <span>100%</span>
+              </div>
+              <div className="bg-gray-300 h-3 rounded-full">
+                <div className="bg-blue-500 h-3 rounded-full w-[100%]"></div>
+              </div>
+            </div>
+
+            <div>
+              <div className="flex justify-between mb-2">
+                <span>JavaScript</span>
                 <span>95%</span>
               </div>
               <div className="bg-gray-300 h-3 rounded-full">
@@ -79,31 +99,11 @@ const About = () => {
 
             <div>
               <div className="flex justify-between mb-2">
-                <span>CSS / Tailwind</span>
-                <span>90%</span>
-              </div>
-              <div className="bg-gray-300 h-3 rounded-full">
-                <div className="bg-blue-500 h-3 rounded-full w-[90%]"></div>
-              </div>
-            </div>
-
-            <div>
-              <div className="flex justify-between mb-2">
-                <span>JavaScript</span>
-                <span>80%</span>
-              </div>
-              <div className="bg-gray-300 h-3 rounded-full">
-                <div className="bg-blue-500 h-3 rounded-full w-[80%]"></div>
-              </div>
-            </div>
-
-            <div>
-              <div className="flex justify-between mb-2">
                 <span>React</span>
-                <span>75%</span>
+                <span>93%</span>
               </div>
               <div className="bg-gray-300 h-3 rounded-full">
-                <div className="bg-blue-500 h-3 rounded-full w-[75%]"></div>
+                <div className="bg-blue-500 h-3 rounded-full w-[93%]"></div>
               </div>
             </div>
 

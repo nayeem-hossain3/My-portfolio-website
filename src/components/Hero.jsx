@@ -131,13 +131,13 @@ const Hero = () => {
 
       {/* Location */}
       <div className="flex justify-center">
-        <p className="text-gray-400 px-6 py-3 mt-6 bg-green-500/10 rounded-full text-center">
+        <p className="text-gray-400 px-6 py-3  bg-green-500/10 rounded-full text-center">
           📍 Bangladesh
         </p>
       </div>
 
       {/* Scroll */}
-      <p className="animate-bounce text-center mt-10">
+      <p className="animate-bounce text-center mt-5">
         ↓ Scroll Down
       </p>
     </>
