@@ -1,16 +1,112 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌐 Modern Responsive Portfolio Website
 
-Currently, two official plugins are available:
+A modern, responsive portfolio website built with **React.js** and **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🚀 Live Demo • 💻 Clean Code • 📱 Fully Responsive
 
-## React Compiler
+</div>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📖 About The Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is a modern and responsive portfolio website designed to showcase professional skills, projects, and contact information. It focuses on clean UI, smooth user experience, reusable React components, and responsive layouts that work perfectly across desktop, tablet, and mobile devices.
+
+---
+
+## ✨ Features
+
+✅ Modern & Clean UI
+
+✅ Fully Responsive Design
+
+✅ Smooth Navigation
+
+✅ Fast Loading Performance
+
+✅ Reusable React Components
+
+✅ Mobile Friendly
+
+✅ Cross Browser Compatible
+
+✅ Clean & Maintainable Code
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+- Vite
+
+---
+
+## 📷 Project Preview
+
+> Add your project screenshot here
+
+![Portfolio Preview](./preview.png)
+
+---
+
+## 🚀 Live Demo
+
+🔗 my-portfolio-website-three-ashen.vercel.app
+
+---
+
+## 💻 GitHub Repository
+
+🔗 nayeem-hossain3/My-portfolio-website
+
+---
+
+## 📁 Folder Structure
+
+```
+src/
+ ├── assets/
+ ├── components/
+ ├── pages/
+ ├── App.jsx
+ ├── main.jsx
+public/
+```
+
+---
+
+## 🎯 What I Learned
+
+- Building reusable React components
+- Responsive layouts using Tailwind CSS
+- Clean project structure
+- Performance optimization
+- Modern UI design principles
+
+---
+
+## 📞 Contact
+
+**Nayeem Hossain**
+
+💼 Frontend Developer
+
+📧 your-hasanmuhammadnayeem@gmail.com
+
+🌐 Portfolio: my-portfolio-website-three-ashen.vercel.app
+
+🐙 GitHub: https://github.com/nayeem-hossain3
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, don't forget to give it a star!
+
+</div>
