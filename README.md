@@ -49,7 +49,7 @@ This project is a modern and responsive portfolio website designed to showcase p
 
 ## 📷 Project Preview
 
-> Add your project screenshot here
+> 📸 Project Preview
 
 ![Portfolio Preview](./preview.png)
 
